@@ -1,0 +1,48 @@
+
+.title{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.presentacion{
+    text-align: center;
+    margin-bottom: 250px;
+}
+
+.container{
+    display: flex;
+}
+
+.header-left, .header-right{
+    width: 50%;
+    justify-content: center;
+}
+.separador{
+     background-color: gray;
+     height: 4px;
+
+}
+.containerExp{
+    display: flex;
+    justify-content: space-between;
+}
+
+.descripcion{
+    width: 70%;   
+}
+.subtitulo{
+    text-align: left;
+    font-size: 19px;
+    margin-bottom: 20px;
+
+}
+body{
+    padding: 0 150px;
+}
+.descripcion2{
+    width: 70%;
+}

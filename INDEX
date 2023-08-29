@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HV Andres</title>
+    <link rel="stylesheet" href="estilos.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header-left">
+        <header>
+          <h1 class="title">CARLOS ANDRES JIMENEZ MURCIA</h1>
+        </header>
+        <nav>
+          <p class="presentacion">ESTUDIANTE DE DESARROLLO DE SOFTWARE</p>
+
+          <p class="exp">EXPERIENCIA</p>
+          <hr class="separador" />
+        </nav>
+        <nav>
+          <h2 class="subtitulo">
+            TECNICO EN BIOMETRICOS Y AUXILIAR DE OFICINA
+          </h2>
+          <div class="containerExp">
+            <p class="descripcion2">
+              Gestión de personal mediante biometricos, mantenimiento de ellos y
+              auxiliar de oficina
+            </p>
+            <p class="fecha">Evo LTDA<br />2018 - 2020</p>
+          </div>
+        </nav>
+        <nav>
+          <h3 class="subtitulo">JEFE DE ALMACEN</h3>
+          <div class="containerExp">
+            <p class="descripcion2">
+              Encargado de personal y en los respectivos repuestos de cada
+              motor, manejo de altas cantidades de dinero, confidencialidad,
+              retenciones, inventario.
+            </p>
+            <p class="fecha">OIL DIESEL SERVICES<br />2021 - 2023</p>
+            <hr class="separador" />
+          </div>
+        </nav>
+        <nav>
+          <h4 class="subtitulo">EDUCACION</h4>
+          <div class="containerExp">
+            <p class="descripcion2">
+              ESTUDIOS PRIMARIOS:I.E.D Nueva Constitución Básica Primaria
+            </p>
+          </div>
+          <p class="descripcion2">
+            ESTUDIOS SECUNDARIOS:I.E.D Justo Víctor Charry Bachiller Académico
+            con énfasis en Comunicación, Ciencia y tecnología
+          </p>
+          <p class="descripcion2">
+            ESTUDIOS UNIVERSITARIOS:universidad libre Ingeniería industrial ,
+            quinto semestre (aplazado)
+          </p>
+          <p class="descripcion2">
+            TECNOLOGO SENA :Aseguramiento metrológico industrial
+          </p>
+          <p></p>
+        </nav>
+      </div>
+
+      <div class="header-right">
+        <p class="descripcion3">
+          Soy una persona emprendedora con alto sentido de compromiso y
+          dispuesta a asumir con responsabilidad y dedicación nuevas
+          experiencias laborales además de sueños y aspiraciones salariales. Me
+          gusta ser dedicado, responsable y trabajar con mucha actitud y
+          entusiasmo. Mis virtudes y fortalezas son el trabajo en equipo, la
+          perseverancia y la facilidad de aprendizaje.
+        </p>
+        <hr class="separador" >
+
+        <nav>
+          <h5 class="subtitulo">CONTACTO</h5>
+          <p class="descripcion2">karlozj17@hotmail.com</p>
+          <p class="descripcion2">CEL: 3203180670</p>
+          <p class="descripcion4">DIRECCION: calle 77#107-03</p>
+          <hr class="separador" >
+        </nav>
+        <h6 class="subtitulo">HABILIDADES Y EXPERIENCIA</h6>
+        
+        <nav>
+        <div>
+          <p class="descripcion2"> * lenguaje de programacion,PYTHON,JAVA.C++</p>
+          <p class="descripcion2">* bases de datos, SQL</p>
+          <p class="descripcion2">* tecnologias web, HTML,CSS,JavaScript</p>
+          <p class="descripcion2">
+            * diseño,desarrollo y optimizacion de soluciones tecnologicas
+            invonadoras
+          </p>
+          <hr class="separador" >
+          </div>
+        </nav>
+
+        <nav>
+            <P class="subtitulo">REFERENCIAS</P>
+            <p class="descripcion2"> CESAR ALFREDO FONSECA</p>
+            <p class="descripcion2"> INGENIERO DE SISTEMAS</p>
+            <p class="descripcion2">  6961415</p>
+            <hr class="separador" >
+            <p class="descripcion2"> SANDRA PATRICIA JIMENEZ</p>
+            <p class="descripcion2"> INDEPENDIENTE</p>
+            <p class="descripcion2"> 3167593475</p>
+            
+        </nav>
+    
+        </body>
+</html>
